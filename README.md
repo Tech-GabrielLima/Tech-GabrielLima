@@ -35,4 +35,4 @@ bilingual (EN/PT) docs**.
 
 **Stack:** Rust · CUDA / C++ · Python (NumPy, Triton) · Java 21 / Spring Boot · compilers · distributed systems · GPU computing
 
-📫 **gabrielliiiiima2004@gmail.com**
+📫 **port.gabriellima@gmail.com**
