@@ -33,6 +33,7 @@ bilingual (EN/PT) docs**.
 
 ---
 
-**Stack:** Rust · CUDA / C++ · Python (NumPy, Triton) · Java 21 / Spring Boot · compilers · distributed systems · GPU computing • SQL (mysql, oracle, postgre) • Nosql • Elixir And More
+**Stack:** Rust · CUDA / C++ · Python (NumPy, Triton) · Java 21 / Spring Boot · Elixir · SQL (PostgreSQL, MySQL) · NoSQL · Distributed Systems · Compilers · GPU Computing
+
 
 📫 **port.gabriellima@gmail.com**
